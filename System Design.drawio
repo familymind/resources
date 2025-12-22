@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="OqmrHPYhRKpq-hzrQwnJ">
+    <mxGraphModel dx="1234" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VtsAFzCWrc8_3gdXQ3th-3" edge="1" parent="1" source="VtsAFzCWrc8_3gdXQ3th-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VtsAFzCWrc8_3gdXQ3th-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtsAFzCWrc8_3gdXQ3th-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;API Gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Routing, Rate Limiting, Auth Validation)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="340" x="255" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VtsAFzCWrc8_3gdXQ3th-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Core Service&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="165" x="343" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VtsAFzCWrc8_3gdXQ3th-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;- Profile&lt;/div&gt;&lt;div&gt;- Task&lt;/div&gt;&lt;div&gt;- List&lt;/div&gt;&lt;div&gt;- Calendar&lt;/div&gt;&lt;div&gt;- Event&lt;/div&gt;&lt;div&gt;- Chat&lt;/div&gt;&lt;div&gt;- Memory&lt;/div&gt;&lt;div&gt;- Activity&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="130" x="360" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
